@@ -1,5 +1,5 @@
 # Monotonic Cycle DP
-This program is able to use dynamic program to calculate the optimal montone cycle path for a given set of vertices
+This program is able to use dynamic program to calculate the optimal montone cycle path for a given set of vertices.
 
 ## Usage
 ```
